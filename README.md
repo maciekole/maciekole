@@ -15,7 +15,9 @@ I'm a Python backend developer aimig to be full stack in near future.
 ## What am I doing?
 👩‍💻 I'm currently working on private project ;)
 
-🧠 I'm currently learning **TDD**
+🧠 I'm currently learning **TDD**, **Design Patterns**, **Data Structures** and **Algorithms**
+
+🔥 I'm challenging myself to resolve one coding kata each day 
 
 ⚡️ Fun fact, rubber bands last longer when refrigerated.
 
