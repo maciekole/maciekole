@@ -7,8 +7,6 @@ I'm a Python backend developer aiming to become full stack in near future.
 
 
 ## 🔗 You can reach me on
-![](https://komarev.com/ghpvc/?username=maciekole&color=green&style=flat-square)
-<br/>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej0lejnik/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Maciej_O_2k16)
 
@@ -43,5 +41,7 @@ I'm a Python backend developer aiming to become full stack in near future.
 
 <br/><br/>
 ## :chart_with_upwards_trend: Stats
+![](https://komarev.com/ghpvc/?username=maciekole&color=green&style=flat-square)
+<br/>
 ![](https://hit.yhype.me/github/profile?user_id=24421260)
 <br/>
