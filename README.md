@@ -40,3 +40,8 @@ I'm a Python backend developer aiming to become full stack in near future.
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> </a>
 <br/>
+
+<br/><br/>
+## :chart_with_upwards_trend: Stats
+![](https://hit.yhype.me/github/profile?user_id=24421260)
+<br/>
