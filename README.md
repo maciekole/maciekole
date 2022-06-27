@@ -43,5 +43,5 @@ I'm a Python backend developer aiming to become full stack in near future.
 
 <br/><br/>
 ## :chart_with_upwards_trend: Stats
-![](https://hit.yhype.me/github/profile?user_id=24421260)
+[![]](https://hit.yhype.me/github/profile?user_id=24421260)
 <br/>
