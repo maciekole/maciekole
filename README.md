@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Python backend developer aimig to be full stack in near future.
+I'm a Python backend developer aiming to become full stack in near future.
 
 
 ## 🔗 You can reach me on
