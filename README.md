@@ -8,12 +8,11 @@ I'm a Python backend developer aiming to become full stack in near future.
 
 ## 🔗 You can reach me on
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej0lejnik/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Maciej_O_2k16)
 
 ## What am I doing?
-👩‍💻 I'm currently working on private project ;)
+👩‍💻 I'm currently working on side project - dydx trading bot for trades automation
 
-🧠 I'm currently learning **TDD**, **Design Patterns**, **Data Structures** and **Algorithms**
+🧠 I'm currently learning **GO**          
 
 🔥 I'm challenging myself to resolve one coding kata each day 
 
